@@ -1,0 +1,15 @@
+---
+title: "Welcome To My Blog!"
+author: "Luis Alonso Alvarez"
+date: "2026-01-14"
+categories: [Blog, Quarto]
+---
+
+![](thumbnail.jpg)
+
+Welcome! This blog is a space for discussion. Here, I will write about economics, statistics, data science, public policy (yes, politics—ugh), and current events.
+
+I strongly believe that we are often very confident about what we *don’t* know, and much less certain about what we think we know. Data and information are almost free today, but that abundance comes with serious challenges.
+
+Let’s talk about those challenges and much more.
+

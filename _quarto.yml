@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Luis Alvarez Blog"
+  site-url: "https://luisalonso8.github.io/mi-blog-2/"
+  description: "What data science can do: predicting crime"
+  navbar:
+    right:
+      - text: Blog
+        href: index.qmd
+  page-footer:
+    center: "© 2026 Luis Alvarez"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+
+
+

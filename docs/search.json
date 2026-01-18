@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog!",
+    "section": "",
+    "text": "Welcome! This blog is a space for discussion. Here, I will write about economics, statistics, data science, public policy (yes, politics—ugh), and current events.\nI strongly believe that we are often very confident about what we don’t know, and much less certain about what we think we know. Data and information are almost free today, but that abundance comes with serious challenges.\nLet’s talk about those challenges and much more."
+  },
+  {
+    "objectID": "posts/blog_predicting_crime/index.html",
+    "href": "posts/blog_predicting_crime/index.html",
+    "title": "What data science can do: predicting crime",
+    "section": "",
+    "text": "Increasing violence is a phenomenon related with many factors around the world and a clear regional trend in most of the Americas.\nComparing the cumulative change in the homicide rate per one hundred thousand inhabitants over the last ten years, the index has increased in Mexico by 28%, while in other countries such as USA and Canada, the growth is similar (but at a different baseline)."
+  },
+  {
+    "objectID": "posts/blog_predicting_crime/index.html#homicide-trends-across-the-americas-2010-2020",
+    "href": "posts/blog_predicting_crime/index.html#homicide-trends-across-the-americas-2010-2020",
+    "title": "What data science can do: predicting crime",
+    "section": "Homicide trends across the Americas, 2010-2020",
+    "text": "Homicide trends across the Americas, 2010-2020\n\nSource: UNODC, World Bank\n\n\nCountry\nChange (%)\n\n\n\n\nChile\n82.81\n\n\nHaiti\n64.85\n\n\nUruguay\n62.41\n\n\nSt. Vincent and the Grenadines\n40.20\n\n\nAntigua and Barbuda\n39.34\n\n\nGrenada\n34.28\n\n\nUnited States\n34.27\n\n\nBarbados\n29.23\n\n\nMexico\n27.93\n\n\nCanada\n23.04\n\n\nSt. Lucia\n13.31\n\n\nGuyana\n4.06\n\n\nDominica\n1.90\n\n\nCuba\n-0.15\n\n\nBermuda\n-1.02\n\n\nCosta Rica\n-2.12\n\n\nArgentina\n-7.30\n\n\nPanama\n-8.13\n\n\nJamaica\n-10.55\n\n\nBrazil\n-19.20\n\n\nTrinidad and Tobago\n-21.02\n\n\nBahamas, The\n-27.91\n\n\nColombia\n-34.41\n\n\nVenezuela, RB\n-35.07\n\n\nBelize\n-35.21\n\n\nPuerto Rico (US)\n-38.78\n\n\nNicaragua\n-41.95\n\n\nParaguay\n-43.60\n\n\nHonduras\n-52.10\n\n\nSt. Kitts and Nevis\n-52.40\n\n\nEcuador\n-55.07\n\n\nGuatemala\n-55.75\n\n\nDominican Republic\n-65.35\n\n\nEl Salvador\n-67.26\n\n\nCayman Islands\n-73.75\n\n\n\nThe violence in Latin America is strongly related to drug trafficking markets, but also to inequality and economic crises. Particularly, Mexico faced a severe problem in terms of intentional homicides.\n\n\n\nSource: INEGI, National System of Public Safety of Mexico\n\n\nIf you have seen the HBO Series “The Wire” or “Breaking Bad” you will know what I am talking about. The drug retailers need to domain the territory to control their sales points.\nDuring the last years, there is a public debate in the Americas to find if the increase of violence has to do with find the true relationship between some independent variables such as economic factors, poverty, institutional framework, cultural values, etc. with the violence as the dependent variable and specifically analyzing the Mexican case.\nAre the drugs the problem? Is it the money? Are the governments? Are the people that consume illegal substances? One of the most significant variables that can explain the violence (and that is not obvious in the model) is transport.\nLet´s see why: in the last 30 years, there have been important structural changes in the drug distribution routes of drug into the US. The closing of Caribbean route in the 1990s meant an increase of the number of drugs coming from Mexico into the USA. Now this brought an increase in violence: a growth in the markup value led to powerful organizations that are fighting fiercely to control the routes.\nAccording to the United Nations, from 1998 to 2008, channels and routes to introduce drugs into America changed when Mexico became the main route."
+  },
+  {
+    "objectID": "posts/blog_predicting_crime/index.html#the-cocaine-case",
+    "href": "posts/blog_predicting_crime/index.html#the-cocaine-case",
+    "title": "What data science can do: predicting crime",
+    "section": "The cocaine case",
+    "text": "The cocaine case\nData for the United States, the country with the world’s largest cocaine market, show marked increases in cocaine use in the 1960s and the 1970s, decreases in the 1980s, new increases in the 1990s and declines in the new millennium, notably after 2006.\nTraffickers changed their preferred smuggling method in the 1980s and 1990s to shipping the cocaine by boat via the Caribbean.\nNow criminal groups control the trafficking from Mexico into the United States. The shipment methods have changed too: while originally most of the cocaine shipments went directly from Colombia to the United States by air, nowadays this changed again, semi-submarines carrying cocaine started leaving the Pacific coast of Colombia to Mexico; once in Mexico , the drugs are transported into the United States by terrestrial means in order to reach their final destinations across the country. The US authorities estimate that nearly 90% of the cocaine entering the country crosses the US/Mexico land border.\n\n\n\nSource: UNODC"
+  },
+  {
+    "objectID": "posts/blog_predicting_crime/index.html#how-much-cocaine-is-in-the-united-states",
+    "href": "posts/blog_predicting_crime/index.html#how-much-cocaine-is-in-the-united-states",
+    "title": "What data science can do: predicting crime",
+    "section": "How much cocaine is in the United States?",
+    "text": "How much cocaine is in the United States?\nThere is no single official figure for the total amount of cocaine circulating within the United States. However, recent supply-chain models that combine production, trafficking, and consumption estimates suggest that approximately 250–260 metric tons of cocaine are supplied to the U.S. market annually.\nUsing the same modeling approaches, Canada is estimated to receive roughly 15–20 metric tons per year, while Mexico is estimated at around 15–25 metric tons, primarily as both a transit country and a secondary consumer market."
+  },
+  {
+    "objectID": "posts/blog_predicting_crime/index.html#how-much-is-this-worth-and-who-captures-the-value",
+    "href": "posts/blog_predicting_crime/index.html#how-much-is-this-worth-and-who-captures-the-value",
+    "title": "What data science can do: predicting crime",
+    "section": "How much is this worth, and who captures the value?",
+    "text": "How much is this worth, and who captures the value?\nHistorical U.S. government and UN estimates placed the value of the North American cocaine market at around USD 35–40 billion annually in the late 2000s. Given higher global production and sustained demand, the current market value is still in the tens of billions of U.S. dollars per year. The majority of profits are not captured by coca farmers, but by trafficking organizations and distribution networks operating along the supply chain and within the United States. Value accumulation increases sharply at the trafficking and wholesale distribution stages, while farmers capture only a very small fraction of the final retail price."
+  },
+  {
+    "objectID": "posts/blog_predicting_crime/index.html#and-now-the-opioid-crises",
+    "href": "posts/blog_predicting_crime/index.html#and-now-the-opioid-crises",
+    "title": "What data science can do: predicting crime",
+    "section": "And now the opioid crises…",
+    "text": "And now the opioid crises…\nOver the past decade, the opioid crisis in the United States has increasingly been driven by illicitly manufactured fentanyl and other synthetic opioids. Deaths involving synthetic opioids surged dramatically from the early 2010s, growing steadily into the early 2020s as fentanyl replaced heroin and prescription opioids as the primary driver of overdose mortality.\n\n\n\nSource: CDC\n\n\nIn 2023, provisional U.S. mortality statistics show that nearly 73,000 drug overdose deaths involved synthetic opioids, primarily fentanyl—a slight decrease compared with the previous year but still many times higher than pre-fentanyl years. Synthetic opioids accounted for a large majority of opioid-related deaths, with some estimates indicating they were involved in about 70 % of all drug overdose fatalities in that year.\n\n\n\nSource: CDC, NCHS"
+  },
+  {
+    "objectID": "posts/blog_predicting_crime/index.html#weapons-markets-guns-can-be-bought-like-a-toolbox",
+    "href": "posts/blog_predicting_crime/index.html#weapons-markets-guns-can-be-bought-like-a-toolbox",
+    "title": "What data science can do: predicting crime",
+    "section": "Weapons´ markets: guns can be bought like a toolbox",
+    "text": "Weapons´ markets: guns can be bought like a toolbox\nIn 2004, the United States Congress and the Bush Administration decided not to renew the prohibition of the Assault Weapons Ban that expired in 2004. Since then, almost every person in the US can buy a weapon (at 19, you can buy a gun but not a beer).\n\n\n\nFirearms production\n\n\nFrom 2015 to 2023, the relative price of machine guns on consumer price index increased substantially (double and triple digit in medium size an premium).\n\n\n\nPrice firearms"
+  },
+  {
+    "objectID": "posts/blog_predicting_crime/index.html#what-data-science-can-do",
+    "href": "posts/blog_predicting_crime/index.html#what-data-science-can-do",
+    "title": "What data science can do: predicting crime",
+    "section": "What data science can do?",
+    "text": "What data science can do?\nExperience shows that enforcement alone is not enough. This raises a critical question: can we be smarter about where and when to deploy public safety resources?\nTo examine whether crime can be anticipated rather than merely reacted to, we analyzed six years of crime data (2010–2015) covering all 32 Mexican states. The objective was explicitly out-of-sample: assess whether historical patterns observed up to 2015 could forecast crime rates in 2016–2018, using only information that would have been available to policymakers at the time.\nMethodologically, we framed the problem as a regularized prediction task. We relied on Lasso regression, which is particularly well suited for high-dimensional policy data: it performs variable selection and shrinkage simultaneously, reducing overfitting while identifying the most persistent predictors of crime.\nThe results show that crime is predictable but not uniformly so. Persistence is a dominant feature of violent crime: states with high homicide rates in one period are statistically very likely to remain high in the following period. Border and trafficking-intensive states exhibited the strongest temporal dependence and volatility, consistent with organized-crime dynamics.\nCrucially, the models provided early-warning signals. Rising crime trends were detectable three to six months before they became evident in official statistics, precisely the window in which preventive interventions can still alter outcomes. Geographic heterogeneity mattered: northern border states showed sharp regime shifts.\nIn practical terms, predictive models like these can reorient public safety goals. Instead of responding after violence escalates, authorities can deploy resources ahead of predicted spikes, differentiate between chronic high-crime areas and sudden outbreaks. Prediction can help as an efficient tool to reduce crime."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mi Blog",
+    "section": "",
+    "text": "What data science can do: predicting crime\n\n\n\nData Science\n\nPublic Policy\n\nCrime\n\nMexico\n\n\n\n\n\n\n\n\n\nJan 17, 2026\n\n\nLuis Alonso Alvarez\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 17, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog!\n\n\n\nBlog\n\nQuarto\n\n\n\n\n\n\n\n\n\nJan 14, 2026\n\n\nLuis Alonso Alvarez\n\n\n\n\n\nNo matching items"
+  }
+]
